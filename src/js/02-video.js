@@ -1,3 +1,4 @@
+// Add imports above this line
 import Player from '@vimeo/player';
 import throttle from 'lodash.throttle';
 
